@@ -1,24 +1,10 @@
-// TODO: Include packages needed for this application
-
-// TODO: Create an array of questions for user input
-const questions = [];
-
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
-function init() {}
-
-// Function call to initialize app
-init();
-
-// TODO: Include packages needed for this application
+// Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
 const util = require('util');
 
-// TODO: Create an array of questions for user input
+// Create an array of questions for user input
 // give options for different sections and then add them to 
 // the table of contents in generateMarkdown.js
 const questions = [{
@@ -186,7 +172,7 @@ const questions = [{
 
 // userPrompts();
 
-// TODO: Create a function to write README file
+// Create a function to write README file
 // this is an await in the async function
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, error => {
@@ -198,7 +184,7 @@ function writeToFile(fileName, data) {
 
 
 const createReadMe = util.promisify(writeToFile);
-// TODO: Create a function to initialize app
+// Create a function to initialize app
 // create async function with catch for errors
 async function init() {
   try {
