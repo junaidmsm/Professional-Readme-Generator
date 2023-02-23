@@ -18,12 +18,24 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   To install this app you will need to run npm install for the following dependencies in your CLI, inquirer, fs, and util. This will allow the question prompts from the CLI for you to create your README.md.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       
 ## Usage
   _Instructions for use:_
   Run the command node index.js in the CLI and the inquirer package will begin prompts for your README section information. As you answer each question you dynamically form the sections, and table of contents for your README.
-  
-Walkthrough Link.jpg
+
+https://drive.google.com/file/d/1g757s4Ta8v5qX7UL0RZpYviNiPVd6vPq/view
 
   All the responses are converted to markdown format and the fs.write package will create the README.md file automatically upon completing the prompts.
       
