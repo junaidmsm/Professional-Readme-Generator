@@ -7,12 +7,10 @@ This is a command line interface application which creates a README file for you
 You can access more badges and their purposes at [shields.io](https://shields.io)
 ## Table of Contents
   * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contribution](#contribution)
-  * [Testing](#testing)
+  * [Usage](#usage)  
   * [Questions](#questions)
   * [License](#license)
-    
+  * [Contribution](#contribution)  
     
 ## Installation
     
