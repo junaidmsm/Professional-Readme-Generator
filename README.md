@@ -22,7 +22,8 @@ You can access more badges and their purposes at [shields.io](https://shields.io
 ## Usage
   _Instructions for use:_
   Run the command node index.js in the CLI and the inquirer package will begin prompts for your README section information. As you answer each question you dynamically form the sections, and table of contents for your README.
-
+  
+Walkthrough Link.jpg
 
   All the responses are converted to markdown format and the fs.write package will create the README.md file automatically upon completing the prompts.
       
