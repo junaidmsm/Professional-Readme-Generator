@@ -22,7 +22,7 @@ You can access more badges and their purposes at [shields.io](https://shields.io
   _Instructions for use:_
   Run the command node index.js in the CLI and the inquirer package will begin prompts for your README section information. As you answer each question you dynamically form the sections, and table of contents for your README.
 
-[Walkthrough Video](https://www.loom.com/share/d911099fef2c4cde8188310804dd1fa0)
+[Walkthrough Video](<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d2b48843d09d4880bb2d1ad12ed444d8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>)
 
   All the responses are converted to markdown format and the fs.write package will create the README.md file automatically upon completing the prompts.
       
