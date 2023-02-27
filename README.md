@@ -41,7 +41,7 @@ You can access more badges and their purposes at [shields.io](https://shields.io
       
   _This application has the MIT License._
       
-  For more information please view the [license description](https://choosealicense.com/licenses/mit/).
+  For more information please view the [license description](https://www.loom.com/share/d911099fef2c4cde8188310804dd1fa0).
   
 ## Contributions  
 
