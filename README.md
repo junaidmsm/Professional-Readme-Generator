@@ -3,8 +3,8 @@
 This is a command line interface application which creates a README file for your application repositories. This will allow people to understand how your app works, how to install it, and how other developers can contribute to your project. This README.md is being created via this system.
 
 
-![badge](https://img.shields.io/badge/license-MITLicense-brightorange)(https://choosealicense.com/licenses/mit/)
-You can access more badges and their purposes at [shields.io](https://shields.io)
+![badge](https://img.shields.io/badge/license-MITLicense-brightorange)+(https://choosealicense.com/licenses/mit/)
+You can access more badges and their purposes at [shields.io](https://shields.io)git
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)  
